@@ -1,4 +1,4 @@
-package com.example.lista;
+package main;
 
 public class Contato {
     private String nome;
